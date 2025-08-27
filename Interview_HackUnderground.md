@@ -1,14 +1,13 @@
 
-## Interview about the w2hack public channel by the Hack Underground Telegram community editorial team
+## Interview about the w2hack telegram public channel by the Hack Underground (Telegram community) (c), 2018
 
-Hello, dear friends! Today's post is a bit unusual. Over many years of my work—speaking at various conferences, forums, and events dedicated to information security issues, teaching educational courses, lecturing at universities, maintaining a personal blog, and other activities, including our w2hack public channel, I have received a large number of questions, suggestions, ideas, constructive and not-so-constructive criticism, and comments, the answers to which, I hope, will be of interest to a wide audience.   All this is in my interview today!
+_Hey, dear friends! So, today's post is a bit unusual. Over many years of my work—speaking at various conferences, forums, and events dedicated to information security issues, teaching educational courses, lecturing at universities, maintaining a personal blog, and other activities, including our w2hack public channel, I have received a large number of questions, suggestions, ideas, constructive and not-so-constructive criticism, and comments, the answers to which, I hope, will be of interest to a wide audience.   All this is in my interview today!_
 
 ### Interview
 
 **Editor:** Hello, everyone! Today we have Ivan, also known as [name hidden], author of the **w2hack** public page dedicated to information security, ethical hacking, and data protection issues.
 V: Ivan, hello! Thank you for taking the time to talk to us. Well, let's get started right away!
 O: Hello, everyone! Thank you for inviting me. I'm glad to be here and will try to answer all your questions. I'm ready, let's begin.
-
 
 #### Q: Please tell us, what does the w2hack public channel mean to you?
 A: I started running the public channel quite recently, with the first post published in March this year. However, the idea of creating a Telegram channel came to me much earlier.  I thought about it a lot and gathered materials. If it weren't for the constant lack of time and overload of projects, I would have started earlier. Nevertheless, even in such a short time, I tried to fill the public channel with materials that I hope are interesting to my audience.
@@ -37,7 +36,7 @@ A: (laughs) I don't tailor my content to any specific audience. Anyone who is in
 
 A: Hmm, interesting question! It's definitely hard to say. I've never kept any statistics on this. Most of my ideas come to me in my head, so I just come home, sit down, and write, recording my thoughts and adding various links, videos, and additional materials related to the topic of the article. Every day, I also browse a large number of aggregator sites that publish information security news, incidents, reports, and case studies. Many ideas also arise after solving a problem or completing a project in which I participated. Sometimes questions from subscribers or my students inspire me to write about certain topics. Some articles have been sitting in my drafts for a long time, waiting for me to format them and finalize them.
 
-#### Q: Aren't you afraid that your materials could be used for illegal purposes?
+#### Q: Do you afraid that your materials could be used for illegal purposes?
 
 A: You see, in my public page, I talk, share, demonstrate, but nothing more. How it might be used later is beyond my control. I can't go around holding everyone's hand and lecturing them, looking over their shoulders at their monitors and wagging my finger at them. It's the same as when you get your driver's license and get behind the wheel. If you have a brain, you'll obey the traffic rules.  Similarly, when you send your child to boxing class, where they teach them technique, how they will use it later — for self-defense or to bully their peers — depends more on their upbringing and moral qualities. I have published a disclaimer in which I clearly stated this. Besides, I don't just talk about “how to hack something” (laughs), but also how to protect yourself and your data. It's impossible to know how to defend yourself if you don't know how you might be attacked. A lot of the material in the public domain is devoted to configuring standard Windows and Linux security measures. And “attack techniques” are mainly related to the practice of conducting pen tests; there is no other way here. And it is not for nothing that the channel is called White 2 hack, that is, it clearly makes it clear which side we are on. (laughs)
 
@@ -67,5 +66,5 @@ And what would it be without surprises? (laughs) Very soon, I will be launching 
 
 A: Friends, thank you very much for staying with me on the w2hack channel. It's very nice to see our community growing. I would also like to express my gratitude to those who write, comment, send their ideas and thoughts, find inaccuracies, share their materials, and simply do not remain indifferent.  Feel free to write to w2hack@mail.ru or send me a private message @D3One. I look forward to your feedback!  Thanks to them, I can make the content more interesting and lively!
 
-**Editor:** Ivan, great conversation! Thank you very much for your candid answers! On behalf of ourselves and our numerous subscribers, we wish you creative success, new interesting challenges, and community growth!
+**Editor:** _Ivan, great conversation! Thank you very much for your candid answers! On behalf of ourselves and our numerous subscribers, we wish you creative success, new interesting challenges, and community growth!_
 

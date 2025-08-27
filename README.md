@@ -25,7 +25,7 @@ Manifest ["Hacking Is Not A Crime"](https://github.com/D3One/Whitw2Hack/blob/mai
 
 _**Ivan Piskunov | W2Hack (c)**_
 
-https://github.com/user-attachments/assets/f6f1b994-e9d6-4679-a07b-e5f74aab734c
+https://github.com/user-attachments/assets/db52e716-6c35-4ee1-a845-822736192fcc
 
 --- 
 

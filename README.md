@@ -22,7 +22,7 @@ Official join iink White2hack TG channel **www.t.me/w2hack** or **@w2hack** insi
 ### Extra:
 
 📌 [Interview with Ivan Piskunov (author W2Hack)](https://github.com/D3One/Whitw2Hack/blob/main/Interview_HackUnderground.md) by Hack Underground, 2018 (c) [(RU original post)](https://ipiskunov.blogspot.com/2018/09/w2hack-hack-underground.html) <br />
-❗️ [Disclaimer](https://github.com/D3One/Whitw2Hack/blob/main/Disclaimer.md) _ALL CONTENT IS FOR EDUCATIONAL PURPOSES ONLY_ <br />
+❗️  [Disclaimer](https://github.com/D3One/Whitw2Hack/blob/main/Disclaimer.md) _ALL CONTENT IS FOR EDUCATIONAL PURPOSES ONLY_ <br />
 ✅ Manifest ["Hacking Is Not A Crime"](https://github.com/D3One/Whitw2Hack/blob/main/HackIsNotCrime.md) Research activities only! <br />
 
 _**Ivan Piskunov | W2Hack (c)**_

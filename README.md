@@ -5,7 +5,7 @@ Cybersecurity. e-Books, guides, how-to guides, educational materials, hack cultu
 
 ### Contacts:
 🔊 Contact @w2hack_feed_bot or direct via TG
-💬 [Chat W2hack Discussion](https://t.me/+VdkEIWudTi5m3dsA)
+💬 [Chat W2hack Discussion](https://t.me/+VdkEIWudTi5m3dsA) /n
 💡  [Consultation request form](https://forms.gle/iB9iX3BwyxJM4Ktx5)
 🏛  Exchange place "W2hack storage" only for individual request 
 

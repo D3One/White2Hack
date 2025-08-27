@@ -82,9 +82,11 @@ _**Ivan Piskunov | W2Hack (c)**_
 ## Another author's resources:
 [CyberSecBastion TG Channel](https://t.me/+lM-z1s7354Y1NmEy) of w2hack family
 
+## Disclaimer
 **!!! ALL CONTENT IS FOR EDUCATIONAL PURPOSES ONLY !!!**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/234c93eb-df2d-4cc2-81cf-fcf954ca9e69" />
 </p>
 
+> Are hackers a threat? The degree of threat presented by any conduct, whether legal or illegal, depends on the actions and intent of the individual and the harm they cause. (с) Kevin Mitnick

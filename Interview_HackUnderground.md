@@ -3,6 +3,8 @@
 
 _Hey, dear friends! So, today's post is a bit unusual. Over many years of my work—speaking at various conferences, forums, and events dedicated to information security issues, teaching educational courses, lecturing at universities, maintaining a personal blog, and other activities, including our w2hack public channel, I have received a large number of questions, suggestions, ideas, constructive and not-so-constructive criticism, and comments, the answers to which, I hope, will be of interest to a wide audience.   All this is in my interview today!_
 
+<img width="1360" height="500" alt="image" src="https://github.com/user-attachments/assets/5afebf0d-1a8c-4f27-a844-04b94c171b28" />
+
 ### Interview
 
 **Editor:** Hello, everyone! Today we have Ivan, also known as [name hidden], author of the **w2hack** public page dedicated to information security, ethical hacking, and data protection issues.
@@ -28,6 +30,8 @@ That's why the public channel became a place where I could share materials and m
 
 However, I do not claim to be a guru or an authority. And I want to say right away to all the haters — just like anyone else, I can make mistakes or inaccuracies in some things. Everything I publish is my personal opinion, my own point of view, which may not coincide with yours. I am not obligated to anyone, and all material is distributed “as is.”
 
+<img width="1365" height="768" alt="image" src="https://github.com/user-attachments/assets/c01d29c7-2c74-407f-81f9-90c1e7ed747e" />
+
 #### Q: What is your target audience?
 
 A: (laughs) I don't tailor my content to any specific audience. Anyone who is interested in what I publish stays. One of the primary goals of creating the public page was to distribute materials for students, so I maintain a presentation style that progresses from simple to complex and try to focus on beginners or those who do not yet have much experience. Although, I am sure that some materials will be useful to advanced specialists who have been working for quite a long time or are involved in security in some other way. It is clear that fierce pen testers or bearded gurus with red eyes, beards, and sweaters will find it difficult to find anything new for themselves here. But otherwise, it covers a wide range of people, from those learning the basics and information security professionals to those who are simply interested in specific information security issues. As is often the case, for example, IT administrators and DevOps who are well versed in administration but are not very knowledgeable about how everything should be protected.
@@ -47,6 +51,8 @@ Although I don't condemn those who have gone over to the dark side. That's reali
 A: Throughout my experience working in the information security industry, I've had to deal with almost everything—from managing information security services to setting up and administering information protection tools myself and conducting forensic procedures. That's why I consider myself a multidisciplinary specialist with a broad background. Of course, it is impossible to know everything about all areas of security equally well, and there are several areas where I have more expertise. But in my opinion, this approach is much better than narrow specialization, for example, only in the field of network protection, super-skills in SIEM administration, or skills in developing only information security documentation.  Yes, and in order to be able to build comprehensive corporate security as a CISO, you need to have a lot of knowledge in each subject area and have a thorough understanding of the situation. This is impossible without special knowledge and extensive experience. 
 
 In general, of course, these are more technical aspects of information security—penetration testing, technical auditing of IT systems, configuring security options for standard protection tools and commercial security products (DLP, WAF, SIEM, IDS, etc.)—because it is this arsenal that essentially provides protection for the corporate perimeter. But I also pay a lot of attention to building the right information security processes in the company, because I have seen many times how a large number of information security systems and the money invested in them simply prove useless in the face of the “human factor.”
+
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/5d01c718-cc35-4af1-a668-b2b8cc1cd1f1" />
 
 #### Q: What kind of feedback do you get most often?
 

@@ -20,6 +20,6 @@
 
 Direct message, feedback, suggestions, exchange of materials **@w2hack_feed_bot** or **direct on the channel**   <br />
 
-** Member of @w2hack family**  <br />
+**Member of @w2hack family**  <br />
 
-✅✅ [Join to CyberSecBastion](https://t.me/+lM-z1s7354Y1NmEy) ✅✅
+✅✅ **[Join to CyberSecBastion]**(https://t.me/+lM-z1s7354Y1NmEy) ✅✅

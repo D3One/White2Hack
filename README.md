@@ -13,6 +13,8 @@ Official join iink White2hack TG channel www.t.me/w2hack or @w2hack inside name 
 
 __Ivan Piskunov | W2Hack (c)__
 
+--- 
+
 ## The following hashtags are currently available (updated October 2024)
 
 #hacktools - various tools, utilities, binaries, and frameworks for defense and attack
@@ -22,7 +24,6 @@ __Ivan Piskunov | W2Hack (c)__
 #metasploit - guides, tips, life hacks, tutorials, cheat sheets for Metasplot 
 #tricks - tricks, hacks, useful stuff, good stuff for all occasions
 #kali - everything related to the Kali Linux distribution
-
 #interview - interviews with the author of this channel in various media outlets, public pages, portals, and YouTube channels
 #audit  - tools, guides, cheat sheets, manuals, and recommendations for information security audits
 #linux - useful stuff related to Linux, hardware, security features, and attack techniques 

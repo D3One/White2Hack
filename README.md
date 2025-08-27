@@ -1,17 +1,19 @@
-## White2hack (or W2hack) Telegramm Channel 
+## White2Hack (or W2hack) Telegramm Channel 
 
+### Description
 Cybersecurity. e-Books, guides, how-to guides, educational materials, hack culture stuff. Analytics, trends, careers path, major infosec events. Ethical hacking and data protection
 
+### Contacts:
 🔊 Contact @w2hack_feed_bot or direct via TG
-💬 Chat https://t.me/+VdkEIWudTi5m3dsA
-💡  Consultation https://forms.gle/iB9iX3BwyxJM4Ktx5
+💬 [Chat W2hack Discussion](https://t.me/+VdkEIWudTi5m3dsA)
+💡  [Consultation request form](https://forms.gle/iB9iX3BwyxJM4Ktx5)
 🏛  Exchange place "W2hack storage" only for individual request 
 
 Official join iink White2hack TG channel www.t.me/w2hack or @w2hack inside name in TG
 
 __Ivan Piskunov | W2Hack (c)__
 
-The following hashtags are currently available (updated October 2024)
+## The following hashtags are currently available (updated October 2024)
 
 #hacktools - various tools, utilities, binaries, and frameworks for defense and attack
 #reverse - everything related to binary file reverse engineering, debugging programs without source code
@@ -20,6 +22,7 @@ The following hashtags are currently available (updated October 2024)
 #metasploit - guides, tips, life hacks, tutorials, cheat sheets for Metasplot 
 #tricks - tricks, hacks, useful stuff, good stuff for all occasions
 #kali - everything related to the Kali Linux distribution
+
 #interview - interviews with the author of this channel in various media outlets, public pages, portals, and YouTube channels
 #audit  - tools, guides, cheat sheets, manuals, and recommendations for information security audits
 #linux - useful stuff related to Linux, hardware, security features, and attack techniques 

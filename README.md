@@ -6,12 +6,14 @@
 
 Cybersecurity. e-Books, guides, how-to guides, educational materials, hack culture stuff. Analytics, trends, careers path, major infosec events. Ethical hacking and data protection
 
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/05ef522f-3e71-4475-9a8c-b9f7ac32f9fb" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05ef522f-3e71-4475-9a8c-b9f7ac32f9fb" />
+</p>
 
 ### Contacts:
 
 🔊 Contact @w2hack_feed_bot or direct via TG <br />
-💬 [Chat W2hack Discussion](https://t.me/+VdkEIWudTi5m3dsA) <br />
+💬 [Chat "W2hack Discussion"](https://t.me/+VdkEIWudTi5m3dsA) <br />
 💡  [Consultation request form](https://forms.gle/iB9iX3BwyxJM4Ktx5) <br />
 🏛  Exchange place "W2hack storage" only for individual request  <br />
 

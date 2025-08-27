@@ -86,7 +86,7 @@ https://github.com/user-attachments/assets/db52e716-6c35-4ee1-a845-822736192fcc
 #ads - advertising content, affiliate programs <br />
 
 ## Another author's resources:
-[CyberSecBastion TG Channel](https://t.me/+lM-z1s7354Y1NmEy) of w2hack family
+[CyberSecBastion TG Channel](https://t.me/+lM-z1s7354Y1NmEy) of w2hack family, see [more details](https://github.com/D3One/White2Hack/blob/main/CyberSecBastion_TG.md) about the channel
 
 ## Disclaimer
 **!!! ALL CONTENT IS FOR EDUCATIONAL PURPOSES ONLY !!!**

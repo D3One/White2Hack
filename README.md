@@ -4,10 +4,10 @@
 Cybersecurity. e-Books, guides, how-to guides, educational materials, hack culture stuff. Analytics, trends, careers path, major infosec events. Ethical hacking and data protection
 
 ### Contacts:
-🔊 Contact @w2hack_feed_bot or direct via TG
+🔊 Contact @w2hack_feed_bot or direct via TG <br />
 💬 [Chat W2hack Discussion](https://t.me/+VdkEIWudTi5m3dsA) <br />
-💡  [Consultation request form](https://forms.gle/iB9iX3BwyxJM4Ktx5)
-🏛  Exchange place "W2hack storage" only for individual request 
+💡  [Consultation request form](https://forms.gle/iB9iX3BwyxJM4Ktx5) <br />
+🏛  Exchange place "W2hack storage" only for individual request  <br />
 
 Official join iink White2hack TG channel www.t.me/w2hack or @w2hack inside name in TG
 
@@ -17,11 +17,10 @@ __Ivan Piskunov | W2Hack (c)__
 
 ## The following hashtags are currently available (updated October 2024)
 
-#hacktools - various tools, utilities, binaries, and frameworks for defense and attack
-#reverse - everything related to binary file reverse engineering, debugging programs without source code
-#malware - everything related to malware, rootkits, backdoors, and encryptors
-#pentest  - penetration testing, red team, offensive
-
+#hacktools - various tools, utilities, binaries, and frameworks for defense and attack <br /> 
+#reverse - everything related to binary file reverse engineering, debugging programs without source code <br />
+#malware - everything related to malware, rootkits, backdoors, and encryptors <br />
+#pentest  - penetration testing, red team, offensive <br />
 #metasploit - guides, tips, life hacks, tutorials, cheat sheets for Metasplot 
 #tricks - tricks, hacks, useful stuff, good stuff for all occasions
 #kali - everything related to the Kali Linux distribution

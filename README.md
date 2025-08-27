@@ -6,6 +6,8 @@
 
 Cybersecurity. e-Books, guides, how-to guides, educational materials, hack culture stuff. Analytics, trends, careers path, major infosec events. Ethical hacking and data protection
 
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/05ef522f-3e71-4475-9a8c-b9f7ac32f9fb" />
+
 ### Contacts:
 
 🔊 Contact @w2hack_feed_bot or direct via TG <br />

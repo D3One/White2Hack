@@ -2,7 +2,9 @@
 
 **!!! ALL CONTENT IS FOR EDUCATIONAL PURPOSES ONLY !!!**
 
-<img width="595" height="450" alt="image" src="https://github.com/user-attachments/assets/234c93eb-df2d-4cc2-81cf-fcf954ca9e69" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/234c93eb-df2d-4cc2-81cf-fcf954ca9e69" />
+</p>
 
 Under no circumstances shall we be liable to you for any loss or damage of any kind incurred as a result of using the this Telegram Channel or using any information provided on the channel. You use the all content on channel and rely on any information provided on the channel  entirely at your own risk.
 

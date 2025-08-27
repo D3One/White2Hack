@@ -1,4 +1,4 @@
-## White2Hack (or W2hack) Telegramm Channel 
+## White2Hack (or W2hack) Telegram Channel 
 
 - - - 
 

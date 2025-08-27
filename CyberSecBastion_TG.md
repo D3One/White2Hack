@@ -1,6 +1,8 @@
 ## DevSecOps, K8s security, Cloud AWS, Azure, GCP, Secure SDLC, API security and AppSec issues [English only]
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f6350d80-2d42-4995-a84b-28b3c6ce3d60" />
+</p>
 
 ### Who is this channel for?
 🤔AppSec and DevSecOps engineer 

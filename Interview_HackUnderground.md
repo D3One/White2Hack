@@ -52,7 +52,9 @@ A: Throughout my experience working in the information security industry, I've h
 
 In general, of course, these are more technical aspects of information security—penetration testing, technical auditing of IT systems, configuring security options for standard protection tools and commercial security products (DLP, WAF, SIEM, IDS, etc.)—because it is this arsenal that essentially provides protection for the corporate perimeter. But I also pay a lot of attention to building the right information security processes in the company, because I have seen many times how a large number of information security systems and the money invested in them simply prove useless in the face of the “human factor.”
 
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/5d01c718-cc35-4af1-a668-b2b8cc1cd1f1" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d01c718-cc35-4af1-a668-b2b8cc1cd1f1" />
+</p>
 
 #### Q: What kind of feedback do you get most often?
 

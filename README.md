@@ -5,7 +5,7 @@ Cybersecurity. e-Books, guides, how-to guides, educational materials, hack cultu
 
 ### Contacts:
 🔊 Contact @w2hack_feed_bot or direct via TG
-💬 [Chat W2hack Discussion](https://t.me/+VdkEIWudTi5m3dsA) /n
+💬 [Chat W2hack Discussion](https://t.me/+VdkEIWudTi5m3dsA) <br />
 💡  [Consultation request form](https://forms.gle/iB9iX3BwyxJM4Ktx5)
 🏛  Exchange place "W2hack storage" only for individual request 
 
@@ -71,4 +71,4 @@ __Ivan Piskunov | W2Hack (c)__
 #ads - advertising content, affiliate programs
 
 ## Another author's resources:
-CyberSecBastion TG Channel (https://t.me/+lM-z1s7354Y1NmEy) of w2hack family
+[CyberSecBastion TG Channel](https://t.me/+lM-z1s7354Y1NmEy) of w2hack family

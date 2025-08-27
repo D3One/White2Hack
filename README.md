@@ -21,9 +21,11 @@ Official join iink White2hack TG channel **www.t.me/w2hack** or **@w2hack** insi
 
 [Disclaimer](https://github.com/D3One/Whitw2Hack/blob/main/Disclaimer.md) _ALL CONTENT IS FOR EDUCATIONAL PURPOSES ONLY_
 
-Manifest ["Hacking Is Not A Crime"](https://github.com/D3One/Whitw2Hack/blob/main/HackIsNotCrime.md)
+Manifest ["Hacking Is Not A Crime"](https://github.com/D3One/Whitw2Hack/blob/main/HackIsNotCrime.md) Research activities only!
 
 _**Ivan Piskunov | W2Hack (c)**_
+
+
 
 --- 
 

@@ -13,17 +13,19 @@ Cybersecurity. e-Books, guides, how-to guides, educational materials, hack cultu
 💡  [Consultation request form](https://forms.gle/iB9iX3BwyxJM4Ktx5) <br />
 🏛  Exchange place "W2hack storage" only for individual request  <br />
 
-Official join iink White2hack TG channel www.t.me/w2hack or @w2hack inside name in TG
+Official join iink White2hack TG channel **www.t.me/w2hack** or **@w2hack** inside name in TG
 
 ### Extra:
 
 [Interview with Ivan Piskunov (author W2Hack)](https://github.com/D3One/Whitw2Hack/blob/main/Interview_HackUnderground.md) by Hack Underground, 2018 (c) [(RU original post)](https://ipiskunov.blogspot.com/2018/09/w2hack-hack-underground.html)
 
-__**Ivan Piskunov | W2Hack (c)**__
+[Disclaimer](https://github.com/D3One/Whitw2Hack/blob/main/Disclaimer.md) _ALL CONTENT IS FOR EDUCATIONAL PURPOSES ONLY_
+
+_**Ivan Piskunov | W2Hack (c)**_
 
 --- 
 
-## The following hashtags are currently available (updated October 2024)
+## The following hashtags are currently available (updated October 2024) [(See original post](https://t.me/w2hack/492))
 
 #hacktools - various tools, utilities, binaries, and frameworks for defense and attack <br /> 
 #reverse - everything related to binary file reverse engineering, debugging programs without source code <br />
@@ -79,3 +81,10 @@ __**Ivan Piskunov | W2Hack (c)**__
 
 ## Another author's resources:
 [CyberSecBastion TG Channel](https://t.me/+lM-z1s7354Y1NmEy) of w2hack family
+
+**!!! ALL CONTENT IS FOR EDUCATIONAL PURPOSES ONLY !!!**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/234c93eb-df2d-4cc2-81cf-fcf954ca9e69" />
+</p>
+
